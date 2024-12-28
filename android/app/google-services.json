@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "898272517006",
+    "firebase_url": "https://test-ee4d9-default-rtdb.firebaseio.com",
+    "project_id": "test-ee4d9",
+    "storage_bucket": "test-ee4d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898272517006:android:25340018cc310e4cae22df",
+        "android_client_info": {
+          "package_name": "com.example.ecom_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898272517006-vfb06634hh72l699b9jtp4gmggse8pp6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecom_app",
+            "certificate_hash": "c57e1943095333a4b9fcec4cc12897519cfdee1d"
+          }
+        },
+        {
+          "client_id": "898272517006-sl9kkqgfbbog2227eq5euk8skmupgjq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5YdYQaMWV9Z4NFccpKsApHNeiemguBIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898272517006-1h2h95vbdgme111g11eh5ovimlvpjo7k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "898272517006-dc2qvnbq6t7d38ncegfqcl1l2a87q0qc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ecomApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
